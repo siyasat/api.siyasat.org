@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "siyasat-org"
+  },
+  "targets": {
+    "siyasat-org": {
+      "hosting": {
+        "api": [
+          "api-siyasat-org"
+        ]
+      }
+    }
+  }
+}
